@@ -1,10 +1,10 @@
-# 🌍 Explorando el Mundo a Través de Datos: Población, Vida y Esperanza en Power BI 📊
+# Explorando el Mundo a Través de Datos: Población, Vida y Esperanza en Power BI
 
 ![Población-Vida-Esperanza](./docs/images/portada.png)
 
-#### 👤 Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
+#### Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
 
-## 📝 Introducción
+## 1. Introducción
 
 Este repositorio contiene un proyecto de análisis de datos utilizando la herramienta Power BI. El proyecto se enfoca en el estudio detallado de la población mundial, la mortalidad infantil y la esperanza de vida en diferentes regiones y países del mundo. A través de visualizaciones interactivas y segmentaciones de datos, proporciona una comprensión profunda de estos indicadores clave.
 
@@ -16,7 +16,7 @@ El análisis se divide en dos partes principales: `Población por Área` e `Indi
 
 Para ejecutar este proyecto, asegúrate de tener Power BI instalado y los conjuntos de datos `Countries.xlsx`, `Infant+death+rate.xlsx`, `Life+expectancy.xlsx`, `Paises.xlsx`, `Population.xlsx`, disponible en la carpeta [data](https://github.com/AlexCapis/Indicadores-Mundiales-Mortalidad-Infantil-Esperanza-de-Vida-PowerBI/tree/main/data) del repositorio.
 
-## 📂 Estructura de carpetas
+## 2. Estructura de carpetas
 
 Para una fácil navegación, he organizado el repositorio de la siguiente manera:
 
@@ -39,23 +39,27 @@ Para una fácil navegación, he organizado el repositorio de la siguiente manera
 
 - `.gitignore`: Un archivo que especifica qué archivos o carpetas deben ser ignorados por Git al realizar seguimiento de cambios.
 
-## 📹 Demostración en Video
+
+
+## Demostración en Video
 
 Antes de sumergirse en los detalles, echa un vistazo a la demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. ¡Haz clic en la imagen para ver el video!
 
 [![Demostración en Video](../docs/images/)]()
 
-## ⚙️ Configuración de los Datos
+## Configuración de los Datos
+
 
 Primero, realicé transformaciones en el conjunto de datos a través del editor de Power Query para obtener las siguientes columnas: 
 
-- Se carga el archivo de `Population` para crear dos nuevas columnas, una la de la **cantidad de población** en la cual se establece una franja de valores y otra columna la de **orden** a través de la cual se logra ordenar la columna de cantidad de población.
+- Se carga el archivo de `Population` para crear dos nuevas columnas, una la de la **cantidad de población** en la cual se establece una franja de valores y otra columna la de **orden** a través de la cual se logra ordenar la columna de cantidad de población..
 
 - Con el archivo de `Life+expectancy.xlsx`cargado se obtiene una nueva columna llamada **esperanza de vida (años promedio)**, la cual contiene una franja de valores para ordenar de una forma más óptima los valores de la columna de esperanza de vida.
 
-- Desde el archivo `Infant+death+rate.xlsx` se trata de crear una nueva columna denominada **mortalidad infantil(Muertes/1000 niños)** cuyo funcionamiento será el de dar una nueva forma de ordenación a dichas defunciones.
+- Desde el archivo `Infant+death+rate.xlsx` se trata de crear una nueva columna denominada **mortalidad infantil(Muertes/1000 niños)** cuyo funcionamiento será el de dar una nueva forma de ordenación dichas defunciones.
 
-## 🌟 Conclusiones Clave
+
+## Conclusiones Clave
 
 Algunas conclusiones a destacar de este informe son las siguientes:
 
@@ -67,6 +71,6 @@ Algunas conclusiones a destacar de este informe son las siguientes:
 
 Este análisis proporciona información valiosa para comprender mejor la situación demográfica y de salud en todo el mundo y puede ser útil para la toma de decisiones y la planificación estratégica en diversos campos.
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
-Espero que este proyecto te resulte útil y te sirva de ayuda. ¡Explora las visualizaciones y datos, y siéntete libre de utilizar esta información para tomar decisiones informadas!
+Espero que este proyecto te resulte útil y enriquecedor. ¡Explora las visualizaciones y datos, y siéntete libre de utilizar esta información para tomar decisiones informadas!
