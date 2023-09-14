@@ -13,8 +13,7 @@ Este repositorio contiene un proyecto de análisis de datos utilizando la herram
 El análisis se divide en dos partes principales: `Población por Área` e `Indicadores Mundiales`. 
 
 
-
-**En la primera parte**, nos sumergimos en el análisis de la distribución de la población a nivel de continentes y países. Utilizamos herramientas visuales como treemaps, mapas y matrices para explorar y representar estos datos de manera efectiva.
+- **En la primera parte**, nos sumergimos en el análisis de la distribución de la población a nivel de continentes y países. Utilizamos herramientas visuales como treemaps, mapas y matrices para explorar y representar estos datos de manera efectiva.
 
 
   <details>
@@ -22,7 +21,7 @@ El análisis se divide en dos partes principales: `Población por Área` e `Indi
   <img src="./docs/images/area_poblacion_continente_pais.png" alt="drawing" width="700"/>
   </details>
 
-**En la segunda parte**, nos adentramos en la comprensión de dos indicadores críticos: la mortalidad infantil y la esperanza de vida. A través de gráficos de dispersión, mapas y matrices, destacamos patrones y tendencias significativas.
+- **En la segunda parte**, nos adentramos en la comprensión de dos indicadores críticos: la mortalidad infantil y la esperanza de vida. A través de gráficos de dispersión, mapas y matrices, destacamos patrones y tendencias significativas.
 
   <details>
   <summary>Indicadores Mundiales: Análisis de Mortalidad Infantil y Esperanza de Vida por Regiones</summary>
@@ -30,7 +29,7 @@ El análisis se divide en dos partes principales: `Población por Área` e `Indi
   </details>
   
 
-**Requisitos Previos:**
+## 📋Requisitos Previos
 
 
 Antes de comenzar con este proyecto, es fundamental asegurarse de contar con los siguientes elementos:
