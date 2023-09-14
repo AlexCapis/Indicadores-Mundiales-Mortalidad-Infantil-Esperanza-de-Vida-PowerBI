@@ -10,11 +10,41 @@ Este repositorio contiene un proyecto de análisis de datos utilizando la herram
 
 **Descripción General**
 
-El análisis se divide en dos partes principales: `Población por Área` e `Indicadores Mundiales`. En la primera parte, exploramos la distribución de la población por continentes y países, utilizando herramientas como treemaps, mapas y matrices. En la segunda parte, profundizamos en la mortalidad infantil y la esperanza de vida, visualizando patrones y tendencias a través de gráficos de dispersión, mapas y matrices.
+El análisis se divide en dos partes principales: `Población por Área` e `Indicadores Mundiales`. 
+
+
+
+**En la primera parte**, nos sumergimos en el análisis de la distribución de la población a nivel de continentes y países. Utilizamos herramientas visuales como treemaps, mapas y matrices para explorar y representar estos datos de manera efectiva.
+
+
+  <details>
+  <summary>Población por Área: Análisis de Población por Continente y País</summary>
+  <img src="./docs/images/area_poblacion_continente_pais.png" alt="drawing" width="700"/>
+  </details>
+
+**En la segunda parte**, nos adentramos en la comprensión de dos indicadores críticos: la mortalidad infantil y la esperanza de vida. A través de gráficos de dispersión, mapas y matrices, destacamos patrones y tendencias significativas.
+
+  <details>
+  <summary>Indicadores Mundiales: Análisis de Mortalidad Infantil y Esperanza de Vida por Regiones</summary>
+  <img src="./docs/images/mortalidad_infantil_esperanza_vida.png" alt="drawing" width="700"/>
+  </details>
+  
 
 **Requisitos Previos:**
 
-Para ejecutar este proyecto, asegúrate de tener Power BI instalado y los conjuntos de datos `Countries.xlsx`, `Infant+death+rate.xlsx`, `Life+expectancy.xlsx`, `Paises.xlsx`, `Population.xlsx`, disponible en la carpeta [data](https://github.com/AlexCapis/Indicadores-Mundiales-Mortalidad-Infantil-Esperanza-de-Vida-PowerBI/tree/main/data) del repositorio.
+
+Antes de comenzar con este proyecto, es fundamental asegurarse de contar con los siguientes elementos:
+
+- **Power BI**: Este proyecto se desarrolla utilizando Power BI como la herramienta principal para la visualización de datos. Si aún no tienes Power BI instalado en tu sistema, puedes descargar la versión más reciente de Power BI Desktop haciendo clic [aquí](https://powerbi.microsoft.com/es-es/desktop/).
+
+- **Conjuntos de Datos**: Para poder llevar a cabo el análisis y las visualizaciones pertinentes, necesitarás disponer de los siguientes conjuntos de datos disponibles en la carpeta [data](https://github.com/AlexCapis/Indicadores-Mundiales-Mortalidad-Infantil-Esperanza-de-Vida-PowerBI/tree/main/data) del repositorio correspondiente:
+
+    - Countries.xlsx
+    - Infant+death+rate.xlsx
+    - Life+expectancy.xlsx
+    - Paises.xlsx
+    - Population.xlsx
+
 
 ## 📂 Estructura de carpetas
 
