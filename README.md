@@ -16,17 +16,14 @@ El análisis se divide en dos partes principales: `Población por Área` e `Indi
 - **En la primera parte**, nos sumergimos en el análisis de la distribución de la población a nivel de continentes y países. Utilizamos herramientas visuales como treemaps, mapas y matrices para explorar y representar estos datos de manera efectiva.
 
 
-  <details>
-  <summary>Población por Área: Análisis de Población por Continente y País</summary>
-  <img src="./docs/images/area_poblacion_continente_pais.png" alt="drawing" width="700"/>
-  </details>
+![Población por Área: Análisis de Población por Continente y País](./docs/images/area_poblacion_continente_pais.png)
+
+
 
 - **En la segunda parte**, nos adentramos en la comprensión de dos indicadores críticos: la mortalidad infantil y la esperanza de vida. A través de gráficos de dispersión, mapas y matrices, destacamos patrones y tendencias significativas.
 
-  <details>
-  <summary>Indicadores Mundiales: Análisis de Mortalidad Infantil y Esperanza de Vida por Regiones</summary>
-  <img src="./docs/images/mortalidad_infantil_esperanza_vida.png" alt="drawing" width="700"/>
-  </details>
+![Indicadores Mundiales: Análisis de Mortalidad Infantil y Esperanza de Vida por Regiones](./docs/images/mortalidad_infantil_esperanza_vida.png)
+
   
 
 ## 📋Requisitos Previos
