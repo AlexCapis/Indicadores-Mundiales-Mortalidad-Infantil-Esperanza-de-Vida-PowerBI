@@ -69,7 +69,10 @@ Para una fácil navegación, he organizado el repositorio de la siguiente manera
 
 Antes de sumergirse en los detalles, echa un vistazo a la demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. ¡Haz clic en la imagen para ver el video!
 
-[![Demostración en Video](../docs/images/)]()
+
+<p align="center">
+  <img src="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI/raw/main/docs/clips/ventas_videojuegos.gif">
+</p>
 
 ## ⚙️ Configuración de los Datos
 
