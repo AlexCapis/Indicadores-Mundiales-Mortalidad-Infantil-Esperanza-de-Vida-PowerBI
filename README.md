@@ -71,8 +71,9 @@ Antes de sumergirse en los detalles, echa un vistazo a la demostración en video
 
 
 <p align="center">
-  <img src="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI/raw/main/docs/clips/ventas_videojuegos.gif">
+  <img src="https://github.com/AlexCapis/Indicadores-Mundiales-Mortalidad-Infantil-Esperanza-de-Vida-PowerBI/raw/main/docs/clips/indicadores_mundiales.gif">
 </p>
+
 
 ## ⚙️ Configuración de los Datos
 
